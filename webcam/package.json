@@ -1,0 +1,21 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "firebase-admin": "^5.0.1",
+    "google-auth-library": "^0.10.0",
+    "google-drive": "0.0.8",
+    "googleapis": "^20.1.0",
+    "node-webcam": "^0.4.3",
+    "socket.io": "^2.0.3"
+  }
+}
